@@ -434,10 +434,11 @@ body.open {
 }
 
 /* Right panel */
-
 .right-panel {
     display: table-cell;
-    padding-left: 0 !important;
+    padding-left: 0;
+    max-width: 0px;
+    width: 100%;
 
     -webkit-transition: all .35s ease;
     -moz-transition: all .35s ease;

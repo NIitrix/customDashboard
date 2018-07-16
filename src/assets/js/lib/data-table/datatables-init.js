@@ -4,7 +4,7 @@
 
     /*  Data Table
     -------------*/
-
+	console.log("Executing Search and pages");
 
 
 

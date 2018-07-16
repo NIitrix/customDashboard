@@ -1074,6 +1074,7 @@ body.open .navbar .navbar-brand.hidden {
 .right-panel {
   display: table-cell;
   padding-left: 0 !important;
+  width: 100%;
   -webkit-transition: all .35s ease;
   -moz-transition: all .35s ease;
   -ms-transition: all .35s ease;
